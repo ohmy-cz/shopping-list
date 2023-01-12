@@ -39,3 +39,8 @@ Here are a few points to give this project a good direction and some boundaries 
   - Varied user experience, ties you into a given chain of stores.
   - Typically plagued with self-promotion
   - Clunky interfaces
+- Using Google docs/sheets
+  - Has nice realtime multiple users indication, but:
+  - Difficult to clear the list (you'd have to keep a template and then copy&paste over)
+  - No easy checkbox interface
+  - Nothing to help you with the repetitive tasks: searching recipes for ingredients, and categorizing them to make the shopping experience smoother.
