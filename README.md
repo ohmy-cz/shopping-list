@@ -15,6 +15,7 @@ Here are a few points to give this project a good direction and some boundaries 
 - Grouping of groceries by food category
   - These categories should be moveable and the position should be persisted, so you can organize it exactly the way your favourite store is.
   - Later: Automatic categorization of entered groceries
+  - Later: Change the order of categories by geolocation, so the order is automatically correct for the shop you're in
 - Multiple language support
   - Starting with English, Danish and Czech
 - Later: Automatic parsing of recipes
