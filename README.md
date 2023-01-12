@@ -8,6 +8,8 @@ Here are a few points to give this project a good direction and some boundaries 
 - No sign-ups, accounts, ads - yet it's free to use, and open source
   - The aim of this app is to provide a free service. I am designing it to be able to use completely anonymously - with a single unique code for each family. As long as you have the code, you have access to the shopping list.
 - Place to store links to recipes,
+- You can tick-off items as you put them in your cart in the store - and whoever shares the app with you sees the change immediately. That makes is easy to split responsibilities with others.
+- The webapp keeps the screen on, so you don't have to constantly login again and again, or fiddle with the screen so the phone wouldn't go to sleep.
 - A button to empty the current list
 - Realtime updates between as many users as there are at the given moment
   - Uses diff to inteligently merge changes.
