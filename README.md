@@ -1,4 +1,4 @@
-# Simple Family Shopping List
+# Family Shopping List
 This webapp gives you and your partner/family a simple, no-hassle way to prepare a weekly shopping list for groceries and other household products a typical family or a couple needs.
 
 ## Manifest
