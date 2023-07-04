@@ -1,6 +1,6 @@
 # Shopping list
 
-## Plan your grocery list with your partner in realtime.
+## Plan your grocery list, with your partner, in realtime.
 
 When it's time to go to the store, share the list with your partner (and kids) and ask them to get groceries from different categories - save time on the mundane.
 
@@ -19,7 +19,7 @@ You'll see immediately what has been added to the shopping cart, as they tick it
 
 - See if somebody starts adding an item to the list in realtime, with their avatar displayed
 - Persist the shopping list in a database
-- Add a clear button
+- Add a shopping list clear button
 - Add the always-on shimmy
 - Introduce groups, so different families can start using the app
 - Persist food groups by a selected grocery store.
@@ -29,7 +29,7 @@ You'll see immediately what has been added to the shopping cart, as they tick it
 
 ### Starting the project
 
-- Have Docker installed
+- Have Docker installed, and this repository cloned
 - Run `docker compose up`
 - Enter `http://localhost:666` in your browser
 
